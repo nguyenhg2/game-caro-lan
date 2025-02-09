@@ -1,0 +1,17 @@
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\bin\Debug\net8.0-windows\GameCaroDemo.exe
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\bin\Debug\net8.0-windows\GameCaroDemo.deps.json
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\bin\Debug\net8.0-windows\GameCaroDemo.runtimeconfig.json
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\bin\Debug\net8.0-windows\GameCaroDemo.dll
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\bin\Debug\net8.0-windows\GameCaroDemo.pdb
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.Form1.resources
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.Properties.Resources.resources
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.csproj.GenerateResource.cache
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.AssemblyInfoInputs.cache
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.AssemblyInfo.cs
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.csproj.CoreCompileInputs.cache
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.dll
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\refint\GameCaroDemo.dll
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.pdb
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\GameCaroDemo.genruntimeconfig.cache
+D:\hoc code\HK4 2024-2025\c#\Bài tập lớn C#\GameCaroDemo\obj\Debug\net8.0-windows\ref\GameCaroDemo.dll
